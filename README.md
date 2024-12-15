@@ -1,6 +1,6 @@
 x86-64 Pipeline used to trim and combine sanger raw data to retrieve a consesus read and other results  
 
-If you modify the source code to use on your project please cite:
+## Citations
 1. Tsiouri, O. (2024). Sanger analysis pipeline: An x86-64 Pipeline used to trim and combine sanger raw data to retrieve a consesus read and other results v2.0. [https://github.com/olgatsiouri1996/sanger_analysis_pipeline](https://github.com/olgatsiouri1996/sanger_analysis_pipeline)
 2. Kuan-Hao Chao, Kirston Barton, Sarah Palmer, and Robert Lanfear (2021). "sangeranalyseR: simple and interactive processing of Sanger sequencing data in R" in Genome Biology and Evolution. DOI: [doi.org/10.1093/gbe/evab028](https://doi.org/10.1093/gbe/evab028)
 
