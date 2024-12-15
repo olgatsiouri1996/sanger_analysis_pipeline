@@ -90,7 +90,7 @@ docker run --rm -it -v C:\path\to\folder:/data python-pandas /data/consesus_csv_
 example:
 
 ```shell
-docker run --rm -it -v /path/to/folder:/data python-pandas /data/consesus_csv_to_fasta.py jexcel.csv 80 drosho_consesus.fasta
+docker run --rm -it -v /home/linuxubuntu2004/Desktop:/data python-pandas /data/consesus_csv_to_fasta.py jexcel.csv 80 drosho_consesus.fasta
 ```
 The output fasta file will look like:
 ```s
